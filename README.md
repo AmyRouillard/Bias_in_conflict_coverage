@@ -9,10 +9,9 @@ The question I chose to attempt to answer is "Is media coverage biased?" and if 
 
 ## Summary of notebooks
 
-| App Description | Link |
+| App Description        | Link |
 |---|---|
 | ACLED data acquisition |  |
 | GDELT data acquisition |  |
-| ACLED data processing  |  |
-| GDELT data processing  |  |
+| Data processing        |  |
 | Streamlit deployment   |  |
