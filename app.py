@@ -83,7 +83,7 @@ df = pd.read_pickle(path+'/df_5.pkl')
 df = df.sort_values(by=['country'])
 
 fig = px.scatter(df, x="date", y="AccNumArticles", color="country",
-                 labels=dict(date="Date", AvgTone="Average Tone", country="Country", AvgNumArticles ="Average Number of articles"))
+                 labels=dict(date="Date", AvgTone="Average Tone", country="Country", AccNumArticles ="Accumulated Number of articles"))
 st.plotly_chart(fig, use_container_width=True)
 
 
