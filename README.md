@@ -11,7 +11,7 @@ The question I chose to attempt to answer is "Is media coverage biased?" and if 
 
 | App Description        | Link |
 |---|---|
-| ACLED data acquisition |  |
-| GDELT data acquisition |  |
-| Data processing        |  |
-| Streamlit deployment   |  |
+| ACLED data acquisition | https://github.com/AmyRouillard/Bias_in_conflict_coverage/blob/main/ACLED_data_request.ipynb |
+| GDELT data acquisition | https://github.com/AmyRouillard/Bias_in_conflict_coverage/blob/main/GDELT_data_processing.ipynb |
+| Data processing        | https://github.com/AmyRouillard/Bias_in_conflict_coverage/blob/main/Data_analysis.ipynb |
+| Streamlit deployment   | https://github.com/AmyRouillard/Bias_in_conflict_coverage/blob/main/app.py |
